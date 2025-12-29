@@ -453,7 +453,7 @@ Most users are behind NAT (Network Address Translation) routers, which:
    - Remote video streams displayed
    - Media flows directly between peers
 
-## Mermaid Diagrams
+## Diagrams
 
 ### System Architecture
 
